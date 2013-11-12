@@ -12,6 +12,9 @@ group :development, :test do
   gem 'factory_girl_rails', '4.2.1'
 end
 
+gem 'faker', '1.1.2'
+gem 'will_paginate', '3.0.4'
+gem 'bootstrap-will_paginate', '0.0.9'
 gem 'bootstrap-sass', '2.3.2.0'
 
 group :test do
